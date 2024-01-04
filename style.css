@@ -669,7 +669,7 @@ body {
 /* end of contact */
 
 /* footer */
-.footer{
+.footer {
     grid-column: 2/10;
     grid-row: 9/10;
     text-align: center;
@@ -677,4 +677,5 @@ body {
     padding: 2rem 0 3rem 0;
     color: #34598f;
 }
+
 /* end of footer */
